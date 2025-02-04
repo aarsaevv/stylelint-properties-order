@@ -2,7 +2,6 @@ How to use it:
 
 1. Add script src to "extends":
 
----
 `.stylelintrc.js`
 ---
 ```js
